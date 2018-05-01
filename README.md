@@ -20,7 +20,7 @@
 - Developing for the Next Billion at [Mobile Era](https://mobileera.rocks/speakers/209)
 <br>10/2017 Oslo, Norway
 
-- [Developing for the Next Billion](https://www.youtube.com/watch?v=eHIfPLt-Ckc) at the [Full Stack Fest(https://2017.fullstackfest.com/speakers/nataliepistunovich/)
+- [Developing for the Next Billion](https://www.youtube.com/watch?v=eHIfPLt-Ckc) at the [Full Stack Fest](https://2017.fullstackfest.com/speakers/nataliepistunovich/)
 <br>09/2017 Barcelona, Spain
 
 - Developing for the Next Billion at [NightlyBuild](https://www.nightlybuild.io/speakers)
@@ -60,18 +60,17 @@
 <br>05/2016 Sunnyvale, CA
 
 ### Workshops:
-- [GoBridge](Berlin https://www.meetup.com/gdgberlin/events/233883713/): 3 months workshop with Women Techmakers
-<br>09-12/2016 Berlin, Germany
-
-- [GoBridge](https://www.meetup.com/gdg-berlin/events/236594458/): 3 months workshop with Women Techmakers
-<br> 01-03/2017 Berlin, Germany
- 
-- [BoosterConf](https://www.boosterconf.no/info/speakers)
-<br>03/2017 Bergen, Norway
- 
-- [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_KeMU_Hub.pdf) at the [Kenya Methodist University](https://www.kamilimu.org/innovation-and-ict-skills)
-<br>07/2017 Nairobi, Kenya
-
 - [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_for_beginners_sfi.pdf) at the [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
 <br>04/2018 Krakow, Poland
 
+- [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_KeMU_Hub.pdf) at the [Kenya Methodist University](https://www.kamilimu.org/innovation-and-ict-skills)
+<br>07/2017 Nairobi, Kenya
+ 
+- Go for Beginners at [BoosterConf](https://www.boosterconf.no/info/speakers)
+<br>03/2017 Bergen, Norway
+ 
+- [GoBridge](https://www.meetup.com/gdg-berlin/events/236594458/): 3 months workshop with Women Techmakers
+<br>01-03/2017 Berlin, Germany
+
+- [GoBridge](https://www.meetup.com/gdgberlin/events/233883713/): 3 months workshop with Women Techmakers
+<br>09-12/2016 Berlin, Germany
