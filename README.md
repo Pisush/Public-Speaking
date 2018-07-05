@@ -2,6 +2,9 @@
 
 ### Talks:
 
+- TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
+<br>11/2018 Oslo, Norway
+
 - TensorFlow+Go at [GopherCon](https://www.gophercon.com/agenda)
 <br>08/2018 Denver, CO
 
