@@ -38,7 +38,7 @@
 - Developing for the Next Billion at [Codemotion Amsterdam](http://amsterdam2017.codemotionworld.com/talk-detail/?detail=5764)
 <br>05/2017 Amsterdam, Netherlands
 
-- [GitHub and open source](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/github-and-open-source.key) at [Tunapanda](http://www.tunapanda.org/)
+- [GitHub and Open Source](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/github-and-open-source.key) at [Tunapanda](http://www.tunapanda.org/)
 <br>04/2017 Nairobi, Kenya
 
 - My Journey in Startups at [Women Techmakers Nairobi](http://wtmnairobi.blogspot.nl/2017/04/women-techmakers-nairobi-2017-summit.html)
