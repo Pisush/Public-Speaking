@@ -5,7 +5,7 @@
 - TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
 <br>11/2018 Oslo, Norway
 
-- Closing keynote: The Importance of Beginners at [GopherCon](https://www.gophercon.com/agenda/speakers/279058)
+- Closing keynote: The Importance of Beginners at [GopherCon](https://www.gophercon.com/agenda/speakers/279058): [slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf) video
 <br>08/2018 Denver, CO
 
 - TensorFlow+Go at [Westside GoLang Meetup](https://www.meetup.com/Westside-GoLang-Meetup/events/250189107)
