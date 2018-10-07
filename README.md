@@ -5,6 +5,9 @@
 - TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
 <br>11/2018 Oslo, Norway
 
+- TensorFlow+Go at [the Stockholm Go conference](https://www.eventbrite.com/e/go-stockholm-conference-tickets-49325007425)
+<br>10/2018 Stockholm, Sweden
+
 - Closing keynote: The Importance of Beginners at [GopherCon](https://www.gophercon.com/agenda/speakers/279058): [slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf), [video](https://www.youtube.com/watch?v=7yMXs9TRvVI)
 <br>08/2018 Denver, CO
 
