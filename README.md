@@ -12,7 +12,7 @@
 - [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [the Stockholm Go conference](https://www.eventbrite.com/e/go-stockholm-conference-tickets-49325007425)
 <br>10/2018 Stockholm, Sweden
 
-- Closing keynote: The Importance of Beginners at [GopherCon](https://www.gophercon.com/agenda/speakers/279058): [slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/gopherconUS.pdf), [video](https://www.youtube.com/watch?v=7yMXs9TRvVI)
+- [Closing keynote: The Importance of Beginners](https://www.youtube.com/watch?v=7yMXs9TRvVI) at [GopherCon](https://www.gophercon.com/agenda/speakers/279058)
 <br>08/2018 Denver, CO
 
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/tf%2Bgo-tham.pdf) at [Westside GoLang Meetup](https://www.meetup.com/Westside-GoLang-Meetup/events/250189107)
