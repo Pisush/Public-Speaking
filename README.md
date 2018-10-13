@@ -2,6 +2,10 @@
 
 ### Talks:
 
+
+- Using Go in DevOps at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
+<br>12/2018 Munich, Germany
+
 - TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
 <br>11/2018 Oslo, Norway
 
