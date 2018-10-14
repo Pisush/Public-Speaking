@@ -21,6 +21,9 @@
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/tf%2Bgo-tham.pdf) at [Gotham Go](http://gothamgo.com/)
 <br>04/2018 New York, NY
 
+- [Introduction to the Elastic Stack] at [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
+<br>04/2018 Krakow, Poland
+
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/TF%2BGO-Minsk.pdf) at the [Go 1.10 Release Party](https://www.facebook.com/events/202545833823265/)
 <br>02/2018  Minsk, Belarus
 
@@ -36,8 +39,6 @@
 - Developing for the Next Billion at [NightlyBuild](https://www.nightlybuild.io/speakers)
 <br>09/2017 Cologne, Germany
 
-- Developing for the Next Billion at [Bay Area Android Developers](https://www.meetup.com/bayareaandroid/events/239670662)
-<br>05/2017 San Francisco, CA
 
 - Developing for the Next Billion at [GDG Berkley](https://www.meetup.com/GDGBerkeley/events/239853523)
 <br>05/2017 Berkley, CA
