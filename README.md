@@ -21,7 +21,7 @@
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/tf%2Bgo-tham.pdf) at [Gotham Go](http://gothamgo.com/)
 <br>04/2018 New York, NY
 
-- [Introduction to the Elastic Stack] at [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
+- Introduction to the Elastic Stack at [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
 <br>04/2018 Krakow, Poland
 
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/TF%2BGO-Minsk.pdf) at the [Go 1.10 Release Party](https://www.facebook.com/events/202545833823265/)
