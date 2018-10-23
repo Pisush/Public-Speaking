@@ -9,7 +9,7 @@
 - TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
 <br>11/2018 Oslo, Norway
 
-- [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [the Google Cloud Startup Roadshow Berlin](https://events.withgoogle.com/cloud-startup-roadshow/)
+- [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [Google Cloud Startup Roadshow Berlin](https://events.withgoogle.com/cloud-startup-roadshow/)
 <br>10/2018 Stockholm, Sweden
 
 - [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [the Stockholm Go conference](https://www.eventbrite.com/e/go-stockholm-conference-tickets-49325007425)
