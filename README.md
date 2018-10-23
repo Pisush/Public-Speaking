@@ -10,7 +10,7 @@
 <br>11/2018 Oslo, Norway
 
 - [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [Google Cloud Startup Roadshow Berlin](https://events.withgoogle.com/cloud-startup-roadshow/)
-<br>10/2018 Stockholm, Sweden
+<br>10/2018 Berlin, Germany
 
 - [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [the Stockholm Go conference](https://www.eventbrite.com/e/go-stockholm-conference-tickets-49325007425)
 <br>10/2018 Stockholm, Sweden
