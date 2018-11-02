@@ -6,7 +6,7 @@
 - Using Go in DevOps at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
 <br>12/2018 Munich, Germany
 
-- TensorFlow Lite at [Mobile Era](https://mobileera.rocks/speakers/)
+- [TensorFlow Lite](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tflife%2Bgo-oslo.pdf) at [Mobile Era](https://mobileera.rocks/speakers/)
 <br>11/2018 Oslo, Norway
 
 - [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-stockholm.pdf) at [Google Cloud Startup Roadshow Berlin](https://events.withgoogle.com/cloud-startup-roadshow/)
