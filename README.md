@@ -1,6 +1,13 @@
-# Slides
+The first list is of talks and the second one is of worksohps. 
+Both listed in a chronological order:
 
 ### Talks:
+
+- Keynote at [GoDays](https://www.gophercon.org.il/schedule.html)
+<br>02/2019 Tel Aviv, Israel
+
+- Opening keynote: The Importance of Beginners at [GoDays](https://www.godays.io/program)
+<br>01/2019 Berlin, Germany
 
 - Using Go in DevOps at [DEVOPS2018](http://devops2018.com/schedule/)
 <br>12/2018 Helsinki, Finalnd
@@ -79,6 +86,10 @@
 <br>05/2016 Sunnyvale, CA
 
 ### Workshops:
+
+- TensorFlow and Go at [AppliedAI](https://www.appliedai.co.uk/speakers/#nataliepistunovich)
+<br> 03/2019 London, UK
+
 - [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_for_beginners_sfi.pdf) at the [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
 <br>04/2018 Krakow, Poland
 
