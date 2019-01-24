@@ -3,7 +3,7 @@ Both listed in a chronological order:
 
 ### Talks:
 
-- Keynote at [GoDays](https://www.gophercon.org.il/schedule.html)
+- Keynote at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
 <br>02/2019 Tel Aviv, Israel
 
 - Opening keynote: The Importance of Beginners at [GoDays](https://www.godays.io/program)
