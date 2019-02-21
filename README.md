@@ -3,6 +3,9 @@ Both listed in a chronological order:
 
 ### Talks:
 
+- Keynote at IT Harmony Conference (distributed, decentralized net)
+<br>TBA Wrocław, Poland
+
 - Keynote at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
 <br>02/2019 Tel Aviv, Israel
 
