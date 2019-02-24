@@ -12,7 +12,7 @@ Both listed in a chronological order:
 - Using Go in DevOps at [DEVOPS2018](http://devops2018.com/schedule/)
 <br>12/2018 Helsinki, Finalnd
 
-- Using Go in DevOps at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
+- [Using Go in DevOps](https://www.youtube.com/watch?v=PZkx4Ai55s0) at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
 <br>12/2018 Munich, Germany
 
 - [TensorFlow+Go](https://www.youtube.com/watch?v=LOgHRPjBUFI) at [GDG Tbilisi DevFest](http://www.devfest.ge/)
