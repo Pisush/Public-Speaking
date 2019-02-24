@@ -1,4 +1,4 @@
-The first list is of talks and the second one is of worksohps. 
+The first list is of *talks* and the second one is of *worksohps*. 
 Both listed in a chronological order:
 
 ### Talks:
@@ -15,7 +15,7 @@ Both listed in a chronological order:
 - Using Go in DevOps at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
 <br>12/2018 Munich, Germany
 
-- [TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-tbilisi.pdf) at [GDG Tbilisi DevFest](http://www.devfest.ge/)
+- [TensorFlow+Go](https://www.youtube.com/watch?v=LOgHRPjBUFI) at [GDG Tbilisi DevFest](http://www.devfest.ge/)
 <br>11/2018 Tbilisi, Georgia
 
 - [TensorFlow Lite](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tflife%2Bgo-oslo.pdf) at [Mobile Era](https://mobileera.rocks/speakers/)
