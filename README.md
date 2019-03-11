@@ -3,6 +3,9 @@ Both listed in a chronological order:
 
 ### Talks:
 
+- Lightning Talk at [DotGo](https://www.dotgo.eu/#speakers)
+<br>03/2019 Paris, France
+
 - Keynote at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
 <br>02/2019 Tel Aviv, Israel
 
