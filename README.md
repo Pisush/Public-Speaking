@@ -1,18 +1,18 @@
-The first list is of *talks* and the second one is of *worksohps*. 
+The first list is of *talks* and the second one is of *workshops*. 
 Both listed in a chronological order:
 
 ### Talks:
 
-- Lightning Talk at [DotGo](https://www.dotgo.eu/#speakers)
+- [Lightning Talk: TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf) at [DotGo](https://www.dotgo.eu/#speakers)
 <br>03/2019 Paris, France
 
-- Keynote at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
+- [Keynote: The Importance of Beginners](https://www.youtube.com/watch?v=cldo4CC_5iM&t=2415s) at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
 <br>02/2019 Tel Aviv, Israel
 
-- Opening keynote: The Importance of Beginners at [GoDays](https://www.godays.io/program)
+- [Opening keynote: The Importance of Beginners](https://github.com/Pisush/Public-Speaking/blob/master/Slides/beginners-godays.pdf) at [GoDays](https://www.godays.io/program)
 <br>01/2019 Berlin, Germany
 
-- Using Go in DevOps at [DEVOPS2018](http://devops2018.com/schedule/)
+- [Using Go in DevOps](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bdevops.pdf) at [DEVOPS2018](http://devops2018.com/schedule/)
 <br>12/2018 Helsinki, Finalnd
 
 - [Using Go in DevOps](https://www.youtube.com/watch?v=PZkx4Ai55s0) at [DevOpsCon](https://devopsconference.de/docker-kubernetes/using-go-in-devops/)
