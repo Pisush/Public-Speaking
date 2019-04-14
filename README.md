@@ -3,7 +3,10 @@ Both listed in a chronological order:
 
 ### Talks:
 
-- [Lightning Talk: TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf) at [DotGo](https://www.dotgo.eu/#speakers)
+- Going Secure With Go at [GopherCon Singapore](https://2019.gophercon.sg/speakers/#natalie-pistunovich))
+<br>05/2019 Singapore
+
+-[Lightning Talk: TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf) at [DotGo](https://www.dotgo.eu/#speakers)
 <br>03/2019 Paris, France
 
 - [Keynote: The Importance of Beginners](https://www.youtube.com/watch?v=cldo4CC_5iM&t=2415s) at [GopherCon Israel](https://www.gophercon.org.il/schedule.html)
