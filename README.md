@@ -3,7 +3,7 @@ Both listed in a chronological order:
 
 ### Talks:
 
-- Going Secure With Go at [GopherCon Singapore](https://2019.gophercon.sg/speakers/#natalie-pistunovich))
+- Going Secure With Go at [GopherCon Singapore](https://2019.gophercon.sg/speakers/#natalie-pistunovich)
 <br>05/2019 Singapore
 
 - [Lightning Talk: TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf) at [DotGo](https://www.dotgo.eu/#speakers)
