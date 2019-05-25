@@ -93,6 +93,10 @@ Both listed in a chronological order:
 
 ### Workshops:
 
+- [Introduction to Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/Introduction-to-Go.pdf) at [Andela Nairobi & GoBridge](https://events.andela.com/public-workshops-kenya-may-2019)
+<br> 05/2019 Nairobi, Kenya
+
+
 - TensorFlow and Go at [AppliedAI](https://www.appliedai.co.uk/speakers/#nataliepistunovich)
 <br> 03/2019 London, UK
 
