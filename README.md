@@ -3,7 +3,14 @@ Both listed in a chronological order:
 
 ### Talks:
 
-- Going Secure With Go at [GopherCon Singapore](https://2019.gophercon.sg/speakers/#natalie-pistunovich)
+- [Going Secure With Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bsecure-belarus.pdf) at [GoWayFest 3.0](https://goway.io/#NataliePistunovich)
+<br>07/2019 Belarus, Minsk
+
+- [Going Secure With Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bsecure-belarus.pdf) at [Google Cloud Developer Roadshow
+](https://events.withgoogle.com/google-cloud-developer-roadshow/speaker-lineup/#NataliePistunovich)
+<br>07/2019 Berlin, Germany
+
+- [Going Secure With Go](https://www.youtube.com/watch?v=9e2gRtzemGo) at [GopherCon Singapore](https://2019.gophercon.sg/speakers/#natalie-pistunovich)
 <br>05/2019 Singapore
 
 - [Lightning Talk: TensorFlow+Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/tf%2Bgo-paris.pdf) at [DotGo](https://www.dotgo.eu/#speakers)
