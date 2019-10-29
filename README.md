@@ -3,6 +3,10 @@ Both listed in a chronological order:
 
 ### Talks:
 
+
+- Going Secure With Go at [DevFest Hamburg](https://hamburg.devfest.de/schedule/2019-11-02?sessionId=104)
+<br>11/2019 Hamburg, Germany
+
 - [Closing Keynote: Going Secure With Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bsecure-belarus.pdf) at [GoWayFest 3.0](https://goway.io/#NataliePistunovich)
 <br>07/2019 Belarus, Minsk
 
