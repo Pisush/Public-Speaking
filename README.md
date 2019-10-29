@@ -3,6 +3,8 @@ Both listed in a chronological order:
 
 ### Talks:
 
+- Going Secure With Go at [DevFest Vienna](https://devfest.at/speakers/)
+<br>11/2019 Vienna, Germany
 
 - Going Secure With Go at [DevFest Hamburg](https://hamburg.devfest.de/schedule/2019-11-02?sessionId=104)
 <br>11/2019 Hamburg, Germany
