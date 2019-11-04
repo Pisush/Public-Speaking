@@ -6,7 +6,7 @@ Both listed in a chronological order:
 - Going Secure With Go at [DevFest Vienna](https://devfest.at/speakers/)
 <br>11/2019 Vienna, Germany
 
-- Going Secure With Go at [DevFest Hamburg](https://hamburg.devfest.de/schedule/2019-11-02?sessionId=104)
+- [Going Secure With Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bsecure-hamburg.pdf) at [DevFest Hamburg](https://hamburg.devfest.de/schedule/2019-11-02?sessionId=104)
 <br>11/2019 Hamburg, Germany
 
 - [Closing Keynote: Going Secure With Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bsecure-belarus.pdf) at [GoWayFest 3.0](https://goway.io/#NataliePistunovich)
