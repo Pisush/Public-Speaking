@@ -7,6 +7,12 @@ Both listed in a chronological order:
 - Going Secure With Go at [GDG Mauritius](https://www.meetup.com/GDG-Mauritius/events/266919961/)
 <br>12/2019 Moka, Mauritius
 
+- Going Secure With Go at [GDG Vladivostok](https://www.meetup.com/GDG-Vladivostok/events/266620470/)
+<br>12/2019 Vladivostok, Russia
+
+- Going Secure With Go at [GDG Golang Kazan](https://www.meetup.com/GolangKazan/events/266534841/)
+<br>11/2019 Kazan, Russia
+
 - Going Secure With Go at [DevFest Vienna](https://devfest.at/speakers/)
 <br>11/2019 Vienna, Germany
 
