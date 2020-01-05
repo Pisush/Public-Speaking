@@ -3,6 +3,10 @@ Both listed in a chronological order:
 
 ### Talks:
 
+
+- Going Secure With Go at [GDG Mauritius](https://www.meetup.com/GDG-Mauritius/events/266919961/)
+<br>12/2019 Moka, Mauritius
+
 - Going Secure With Go at [DevFest Vienna](https://devfest.at/speakers/)
 <br>11/2019 Vienna, Germany
 
