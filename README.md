@@ -14,10 +14,10 @@ Both listed in a chronological order:
 - Infrastructure for ML Applications at [Poland Go User Group](https://www.meetup.com/Golang-Warsaw/events/271150465/)
 <br>06/2020 Online/Warsaw, Poland
 
-- [Infrastructure for ML Applications]() at [IWD Baku](https://www.meetup.com/WTM-Baku/events/270513215/)
+- [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/infra%2Bml-baku.pdf) at [IWD Baku](https://www.meetup.com/WTM-Baku/events/270513215/)
 <br>05/2020 Online/Baku, Azerbaijan)
 
-- [Infrastructure for ML Applications]() at [Aerospike Summit](https://www.aerospike.com/summit/)
+- [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Binfra-aerospike.pdf) at [Aerospike Summit](https://www.aerospike.com/summit/)
 <br>05/2020 Online/Mountain View, CA
 
 - Moderator at [GoRemoteFest](https://www.youtube.com/watch?v=OZSJ2fwSSUM)
@@ -29,13 +29,13 @@ Both listed in a chronological order:
 - Guest at the [Go Time Podcast](https://changelog.com/gotime/125)
 <br>04/2020 Online
 
-- [Infrastructure for ML Applications]() at [GopherCon Russia - Online](https://www.gophercon-russia.ru/en)
+- [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/infra%2Bml-gcru.pdf) at [GopherCon Russia - Online](https://www.gophercon-russia.ru/en)
 <br>03/2020 Online/Moscow, Russia
 
-- [Using Go with Aerospike]() at Volkswagen Digital:Lab Lunch and Learn
+- [Using Go with Aerospike](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Baerospike-vw.pdf) at Volkswagen Digital:Lab Lunch and Learn
 <br>03/2020 Online/Berlin, Germany
 
-[Infrastructure for ML Applications]() at the [Tweakers Developers Summit](https://tweakers.net/partners/developerssummit2020/1096/nataliepistunovich/)
+- [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/infra%2Bml-tweakers.pdf) at the [Tweakers Developers Summit](https://tweakers.net/partners/developerssummit2020/1096/nataliepistunovich/)
 <br>02/2020 Utrecht, Netherlands
 
 #### 2019
