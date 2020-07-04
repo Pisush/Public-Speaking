@@ -11,7 +11,7 @@ Both listed in a chronological order:
 - Infrastructure for ML Applications at [IWD Bari](https://www.meetup.com/GDG-Bari/events/271035758/)
 <br>06/2020 Online/Bari, Italy
 
-- Infrastructure for ML Applications at [Poland Go User Group](https://www.meetup.com/Golang-Warsaw/events/271150465/)
+- [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/infra%2Bml-poland.pdf) at [Poland Go User Group](https://www.meetup.com/Golang-Warsaw/events/271150465/)
 <br>06/2020 Online/Warsaw, Poland
 
 - [Infrastructure for ML Applications](https://github.com/Pisush/Public-Speaking/blob/master/Slides/infra%2Bml-baku.pdf) at [IWD Baku](https://www.meetup.com/WTM-Baku/events/270513215/)
