@@ -3,6 +3,42 @@ Both listed in a chronological order:
 
 ### Talks:
 
+#### 2020
+
+- Infrastructure for ML Applications at [GoWay Fest 4.0](https://goway.io/#talk_Natalie_Pistunovich)
+<br>07/2020 Online/Minsk, Belarus
+
+- Infrastructure for ML Applications at [IWD Bari](https://www.meetup.com/GDG-Bari/events/271035758/)
+<br>06/2020 Online/Bari, Italy
+
+- Infrastructure for ML Applications at [Poland Go User Group](https://www.meetup.com/Golang-Warsaw/events/271150465/)
+<br>06/2020 Online/Warsaw, Poland
+
+- [Infrastructure for ML Applications]() at [IWD Baku](https://www.meetup.com/WTM-Baku/events/270513215/)
+<br>05/2020 Online/Baku, Azerbaijan)
+
+- [Infrastructure for ML Applications]() at [Aerospike Summit](https://www.aerospike.com/summit/)
+<br>05/2020 Online/Mountain View, CA
+
+- Moderator at [GoRemoteFest](https://www.youtube.com/watch?v=OZSJ2fwSSUM)
+<br>04/2020 Online/Barcelona, Spain
+
+- Infrastructure for ML Applications at the [Samsung Internet Meetup](https://www.meetup.com/Samsung-Internet-Meetup/events/270154017/)
+<br>04/2020 Online/London, UK
+
+- Guest at the [Go Time Podcast](https://changelog.com/gotime/125)
+<br>04/2020 Online
+
+- [Infrastructure for ML Applications]() at [GopherCon Russia - Online](https://www.gophercon-russia.ru/en)
+<br>03/2020 Online/Moscow, Russia
+
+- [Using Go with Aerospike]() at Volkswagen Digital:Lab Lunch and Learn
+<br>03/2020 Online/Berlin, Germany
+
+[Infrastructure for ML Applications]() at the [Tweakers Developers Summit](https://tweakers.net/partners/developerssummit2020/1096/nataliepistunovich/)
+<br>02/2020 Utrecht, Netherlands
+
+#### 2019
 
 - Going Secure With Go at [GDG Mauritius](https://www.meetup.com/GDG-Mauritius/events/266919961/)
 <br>12/2019 Moka, Mauritius
@@ -38,6 +74,8 @@ Both listed in a chronological order:
 - [Opening keynote: The Importance of Beginners](https://github.com/Pisush/Public-Speaking/blob/master/Slides/beginners-godays.pdf) at [GoDays](https://www.godays.io/program)
 <br>01/2019 Berlin, Germany
 
+#### 2018
+
 - [Using Go in DevOps](https://github.com/Pisush/Public-Speaking/blob/master/Slides/go%2Bdevops.pdf) at [DEVOPS2018](http://devops2018.com/schedule/)
 <br>12/2018 Helsinki, Finalnd
 
@@ -71,6 +109,7 @@ Both listed in a chronological order:
 - [TensorFlow+Go](https://github.com/Pisush/slides/blob/master/Slides/TF%2BGO-Minsk.pdf) at the [Go 1.10 Release Party](https://www.facebook.com/events/202545833823265/)
 <br>02/2018  Minsk, Belarus
 
+#### 2017
 - Developing for the Next Billion at [Codemotion Milan](https://milan2017.codemotionworld.com/talk-detail/?detail=6581)
 <br>11/2017 Milan, Italy
 
@@ -96,6 +135,8 @@ Both listed in a chronological order:
 - My Journey in Startups at [Women Techmakers Nairobi](http://wtmnairobi.blogspot.nl/2017/04/women-techmakers-nairobi-2017-summit.html)
 <br>04/2017 Nairobi, Kenya
 
+#### 2016
+
 - Developing for the Next Billion at [Codemotion Milan](http://milan2016.codemotionworld.com/talk-detail/?detail=3801)
 <br>11/2016 Milan, Italy
 
@@ -116,15 +157,25 @@ Both listed in a chronological order:
 
 ### Workshops:
 
+#### 2020
+
+- Infrastructure for ML Applications at [Go Get Community](https://www.gogetcommunity.com/workshops/infrastructure-for-machine-learning-applications-go-workshop/)
+<br>05/2020 Online
+
+#### 2019
+
 - [Introduction to Go](https://github.com/Pisush/Public-Speaking/blob/master/Slides/Introduction-to-Go.pdf) at [Andela Nairobi & GoBridge](https://events.andela.com/public-workshops-kenya-may-2019)
 <br> 05/2019 Nairobi, Kenya
-
 
 - TensorFlow and Go at [AppliedAI](https://www.appliedai.co.uk/speakers/#nataliepistunovich)
 <br> 03/2019 London, UK
 
+#### 2018 
+
 - [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_for_beginners_sfi.pdf) at the [SFI - 14. Academic IT Festival](http://sfi.org.pl/prelegenci/natalie-pistunovich/)
 <br>04/2018 Krakow, Poland
+
+#### 2017
 
 - [Go for Beginners](https://github.com/Pisush/go_for_complete_beginners/blob/master/slides/go_KeMU_Hub.pdf) at the [Kenya Methodist University](https://www.kamilimu.org/innovation-and-ict-skills)
 <br>07/2017 Nairobi, Kenya
@@ -134,6 +185,8 @@ Both listed in a chronological order:
  
 - [GoBridge](https://www.meetup.com/gdg-berlin/events/236594458/): 3 months workshop with Women Techmakers
 <br>01-03/2017 Berlin, Germany
+
+#### 2016
 
 - [GoBridge](https://www.meetup.com/gdgberlin/events/233883713/): 3 months workshop with Women Techmakers
 <br>09-12/2016 Berlin, Germany
