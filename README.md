@@ -5,6 +5,19 @@ Both listed in a chronological order:
 
 #### 2020
 
+
+- [Diversity & Berlin’s Tech Communities](https://github.com/Pisush/Public-Speaking/blob/master/Slides/zalando-womenintech.key) at the Zalando Women in Tech Kick Off Event
+<br>11/2020 Online/Berlin, Germany
+
+- Moderator at the AMA Panel With the Go Team at [GoLab](https://golab.io/agenda/session/342996)
+<br>10/2020 Online/Florence, Italy
+
+- Infrastructure for ML Applications at [EuropeClouds Summit](https://www.europecloudsummit.com/)
+<br>10/2020 Online/Tel Aviv, Israel
+
+- [Infrastructure for ML Applications](https://www.youtube.com/watch?v=G5tLiENrHg8&t=20m43s) at [DevFest UKI](https://www-devfest-uki-com.filesusr.com/html/1b14cf_4a3201cae9ebe131a156669a050cd7d0.html#)
+<br>10/2020 Online/Minsk, Belarus
+
 - Infrastructure for ML Applications at [GoWay Fest 4.0](https://goway.io/#talk_Natalie_Pistunovich)
 <br>07/2020 Online/Minsk, Belarus
 
@@ -158,6 +171,9 @@ Both listed in a chronological order:
 ### Workshops:
 
 #### 2020
+
+- Infrastructure for ML Applications at [GopherCon](https://www.gophercon.com/agenda/session/226308)
+<br>11/2020 Online/Florida
 
 - Infrastructure for ML Applications at [Go Get Community](https://www.gogetcommunity.com/workshops/infrastructure-for-machine-learning-applications-go-workshop/)
 <br>05/2020 Online
