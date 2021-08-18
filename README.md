@@ -1,3 +1,9 @@
+In 2021 I gave about 20 conference talks, mostly about Go, reading code, Artifical Intelligence and OpenAI. 
+
+Adding them here is in my backlog. If you are looking for slides for any specific talk - DM me on [Twitter](https://twitter.com/nataliepis).
+
+----
+
 The first list is of *talks* and the second one is of *workshops*. 
 Both listed in a chronological order:
 
