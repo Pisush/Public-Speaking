@@ -2,6 +2,8 @@ In 2021 I gave about 20 conference talks, mostly about Go, reading code, Artific
 
 Adding them here is in my backlog. If you are looking for slides for any specific talk - DM me on [Twitter](https://twitter.com/nataliepis).
 
+You can find some of the OpenAI demos on my [YouTube playlist](https://www.youtube.com/playlist?list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu).
+
 ----
 
 The first list is of *talks* and the second one is of *workshops*. 
