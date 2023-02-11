@@ -1,6 +1,4 @@
-In 2021 I gave about 20 conference talks, mostly about Go, reading code, Artifical Intelligence and OpenAI. 
 
-Adding them here is in my backlog. If you are looking for slides for any specific talk - DM me on [Twitter](https://twitter.com/nataliepis).
 
 You can find some of the OpenAI demos on my [YouTube playlist](https://www.youtube.com/playlist?list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu).
 
@@ -11,8 +9,23 @@ Both listed in a chronological order:
 
 ### Talks:
 
-#### 2020
+#### 2023
 
+- AI-Assisted Go: Up Your Game and Have More Fun at [GopherCon Israel](https://www.gophercon.org.il)
+<br>[Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-assisted-go-natalie-pistunovich.pdf) 
+<br>02/2023 Tel Aviv, Israel
+
+#### 2022
+
+#### 2021
+
+- AI Driven Development in Go at [GopherCon](https://www.gophercon.com) 
+<br>[Recording](https://www.youtube.com/watch?v=TBKQkjt_Q_4) [Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-driven-development-gophercon.pdf)
+<br>12/2021 Online/USA
+
+- Other than the above, in 2021 I gave about 20 conference talks, mostly about Go, reading code, Artifical Intelligence and OpenAI. Adding them here is in my backlog. If you are looking for slides for any specific talk - DM me on [Twitter](https://twitter.com/nataliepis).
+
+#### 2020
 
 - [Diversity & Berlin’s Tech Communities](https://github.com/Pisush/Public-Speaking/blob/master/Slides/zalando-womenintech.key) at the Zalando Women in Tech Kick Off Event
 <br>11/2020 Online/Berlin, Germany
