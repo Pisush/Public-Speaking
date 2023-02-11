@@ -17,10 +17,14 @@ Both listed in a chronological order:
 
 #### 2022
 
+- AI Driven Development in Go at [WeAreDevelopers World Congress]([https://www.gophercon.com](https://www.wearedevelopers.com/world-congress)) 
+<br>[Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-driven-development-gophercon.pdf)
+<br>01/2022 Online/Berlin, Germany
+
 #### 2021
 
 - AI Driven Development in Go at [GopherCon](https://www.gophercon.com) 
-<br>[Recording](https://www.youtube.com/watch?v=TBKQkjt_Q_4) [Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-driven-development-gophercon.pdf)
+<br>[Recording](https://www.youtube.com/watch?v=TBKQkjt_Q_4), [Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-driven-development-gophercon.pdf)
 <br>12/2021 Online/USA
 
 - Other than the above, in 2021 I gave about 20 conference talks, mostly about Go, reading code, Artifical Intelligence and OpenAI. Adding them here is in my backlog. If you are looking for slides for any specific talk - DM me on [Twitter](https://twitter.com/nataliepis).
