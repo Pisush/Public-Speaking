@@ -12,6 +12,7 @@ Both listed in a chronological order:
 #### 2023
 
 - Security in the Era of LLMs and GenAI at [BSides Berlin](https://bsides.berlin/Natalie_Pistunovich.html)
+<br>[Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/bsides-llm-sec-reduced.pdf)
 <br>11/2023 Berlin, Germany
 
 - [State of the Art of Generative AI](https://www.youtube.com/watch?v=mB46c6qaWhY) at [Devoxx Belgium](https://devoxx.be/2023-schedule/speaker-details/?id=32573)
