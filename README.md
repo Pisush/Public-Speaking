@@ -11,7 +11,19 @@ Both listed in a chronological order:
 
 #### 2023
 
-- AI-Assisted Go: Up Your Game and Have More Fun at [GopherCon Israel](https://www.gophercon.org.il)
+- Security in the Era of LLMs and GenAI at [BSides Berlin](https://bsides.berlin/Natalie_Pistunovich.html)
+<br>11/2023 Berlin, Germany
+
+- [State of the Art of Generative AI](https://www.youtube.com/watch?v=mB46c6qaWhY) at [Devoxx Belgium](https://devoxx.be/2023-schedule/speaker-details/?id=32573)
+<br>10/2023 Brussels, Belgium
+
+- [The Current State of AI Driven Development](https://www.youtube.com/watch?app=desktop&v=KwQcQ3F642M) at [Devoxx Greece]([url](https://devoxx.be/2023-schedule/speaker-details/?id=32573))
+<br>05/2023 Athens, Greece
+
+- GenAI Landscape at the [Berlin GenAI Meetup](https://www.meetup.com/berlin-practical-genai-meetup/events/293402052/)
+<br>05/2023 Berlin, Germany
+
+- [AI-Assisted Go: Up Your Game and Have More Fun](https://www.youtube.com/watch?v=4oeqzmu2Nxc&list=PLRM-8sTy13Xvr1ZaZarF5t_PBPxJdZHxt&index=5) at [GopherCon Israel](https://www.gophercon.org.il)
 <br>[Slides](https://github.com/Pisush/Public-Speaking/blob/master/Slides/ai-assisted-go-natalie-pistunovich.pdf) 
 <br>02/2023 Tel Aviv, Israel
 
