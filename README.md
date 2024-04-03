@@ -4,9 +4,6 @@ You can find some of the OpenAI demos on my [YouTube playlist](https://www.youtu
 
 ----
 
-The first list is of *talks* and the second one is of *workshops*. 
-Both listed in a chronological order:
-
 #### 2024
 
 - Workshop: Boosting Software Development with AI at [O'Reilly](https://learning.oreilly.com/live-events/boosting-software-development-with-ai/0636920094087)
