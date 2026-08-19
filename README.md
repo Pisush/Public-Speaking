@@ -2,7 +2,19 @@
 
 You can find some of the OpenAI demos on my [YouTube playlist](https://www.youtube.com/playlist?list=PLQTDXis1psVf7-Jr9vjne3_mMqjWPpsmu). Most of the below sessions were given as part of a conference/organization, and can be found on the relevant YouTube channel, a quick way to find those is search for my name on YouTube.
 
+Private talks and workshops are not listed here, and available on inquiry basis.
+
 ----
+#### 2026
+
+- Best Boring Practices for AI Agents Security at the [AI Coding Summit](https://gitnation.com/events/ai-coding-summit-berlin)
+<br> 12/2026 Berlin, Germany
+
+- Watching Agents for Trouble at [Agentic Days](https://www.agenticdays.com/session/1305182-watching-agents-for-trouble)
+<br> 11/2026 Zürich, Switzerland
+
+- Panel at [KubeAuto Days](https://kubeauto.day/berlin)
+<br> 10/2026 Berlin, Germany
 
 #### 2024
 
