@@ -13,7 +13,10 @@ Private talks and workshops are not listed here, and available on inquiry basis.
 - Watching Agents for Trouble at [Agentic Days](https://www.agenticdays.com/session/1305182-watching-agents-for-trouble)
 <br> 11/2026 Zürich, Switzerland
 
-- Panel at [KubeAuto Days](https://kubeauto.day/berlin)
+- Safety Best Practices in Agentic Engineering at the [Google AI Center](https://rsvp.withgoogle.com/events/women-in-ai-empowering-innovation-in-the-age-of-agency)
+<br> 10/2026 Berlin, Germany
+
+- Panel Discussion: What's Next for DevOps & Platform in an AI Reality? at [KubeAuto Days](https://kubeauto.day/berlin)
 <br> 10/2026 Berlin, Germany
 
 #### 2024
